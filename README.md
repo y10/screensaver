@@ -10,9 +10,9 @@ The file explorer is accessible using the button in left corner of the navigatio
 ## Publication
 You can publish the project into a single executable by opening the corerspondin **Publish** menu within  **Visual Studio**, or use dotnet publish command if you pefer **VSCode**
 
-## Disclaimer ⚠️
+## Disclaimer
 
- Please read this disclaimer carefully before using the software (application). By using the software, you agree to be bound by the terms and conditions set forth in this disclaimer.
+ ⚠️ Please read this disclaimer carefully before using the software (application). By using the software, you agree to be bound by the terms and conditions set forth in this disclaimer. ⚠️
 
 1.  No Responsibility or Liability: The author of this software (application) shall not be held responsible or liable for any damages, losses, or liabilities arising out of the use or inability to use the software. This includes but is not limited to any direct, indirect, incidental, or consequential damages, or any damages whatsoever resulting from the use or misuse of the software.
 
