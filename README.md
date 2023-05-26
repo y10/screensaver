@@ -4,7 +4,6 @@ Your non-software developer friends have probably asked you, "How do I keep my t
 ## Instalation
 1.  Download the project from the github  [**repository**](https://github.com/y10/screensaver).
 2.  Then open project file **Visual Studio**, or **VSCode**
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 3.  Build and run the project.
 
 ## Publication
